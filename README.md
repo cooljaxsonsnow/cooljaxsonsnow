@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a Senior FullStack Developer, passionate about
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cooljaxsonsnow&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
 
