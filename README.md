@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm [Your Name]
 
-Welcome to my GitHub profile! I'm a [Your Profession/Role], passionate about [Your Interests/Fields of Expertise]. I enjoy working on exciting projects and sharing knowledge with the community.
+Welcome to my GitHub profile! I'm a Senior FullStack Developer, passionate about Blockchain Technology. I enjoy working on exciting projects and sharing knowledge with the community.
 
 ## 🔧 Technologies & Tools
 
@@ -11,6 +11,8 @@ Welcome to my GitHub profile! I'm a [Your Profession/Role], passionate about [Yo
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
+![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
 
 ## 📈 GitHub Stats
 
@@ -20,17 +22,17 @@ Welcome to my GitHub profile! I'm a [Your Profession/Role], passionate about [Yo
 
 Here are some of the projects I've been working on:
 
-- [**Project 1**](https://github.com/yourusername/project1) - A brief description of Project 1.
-- [**Project 2**](https://github.com/yourusername/project2) - A brief description of Project 2.
-- [**Project 3**](https://github.com/yourusername/project3) - A brief description of Project 3.
+- [**Blockchain Project 1**](https://github.com/yourusername/project1) - A brief description of Blockchain Project 1.
+- [**Blockchain Project 2**](https://github.com/yourusername/project2) - A brief description of Blockchain Project 2.
+- [**Blockchain Project 3**](https://github.com/yourusername/project3) - A brief description of Blockchain Project 3.
 
 ## 📝 Blog Posts
 
 I also enjoy writing about technology and programming. Check out some of my latest blog posts:
 
-- [**How to Get Started with Python**](https://yourblog.com/python-getting-started)
-- [**Understanding Asynchronous JavaScript**](https://yourblog.com/async-js)
-- [**Building and Deploying with Docker**](https://yourblog.com/docker-deployment)
+- [**How to Get Started with Blockchain**](https://yourblog.com/blockchain-getting-started)
+- [**Understanding Smart Contracts**](https://yourblog.com/smart-contracts)
+- [**Building and Deploying DApps**](https://yourblog.com/dapp-deployment)
 
 ## 📫 Contact Me
 
@@ -44,9 +46,9 @@ I'm always open to collaborating on projects or just having a chat. You can reac
 
 I'm currently learning more about:
 
-- Advanced React Patterns
-- Kubernetes
-- Machine Learning
+- Advanced Solidity Patterns
+- IPFS
+- Layer 2 solutions like Optimism and zk-rollups
 
 ## 💬 Let's Connect
 
