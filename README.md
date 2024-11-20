@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I'm a Senior FullStack Developer, passionate about
 
 I'm currently learning more about:
 
-- Advanced Solidity Patterns
-- IPFS
+- Tack Language for TON smart contract
+- Various Tokenomics
 - Layer 2 solutions like Optimism and zk-rollups
 
 ---
